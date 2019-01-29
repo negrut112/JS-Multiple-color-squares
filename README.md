@@ -1,6 +1,6 @@
 # JS-Multiple-color-squares
 
-<p>Looping a grid of squares, next to a loop for changing the color specte.</p>
+<p>Looping a grid of squares, next to a loop for changing the color specter.</p>
 <p>You can see the live preview accesing: <a href="https://negrut112.github.io/JS-Multiple-color-squares/">https://negrut112.github.io/JS-Multiple-color-squares/</a></p>
 <img src="https://i.imgur.com/8RJoTEG.jpg">
 
