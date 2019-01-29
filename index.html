@@ -11,12 +11,9 @@
   <script>
   var canvas = document.getElementById('myCanvas');
 var context = canvas.getContext('2d');
-
 for(var i=0;i<6;i++){
   for(var j=0;j<6;j++){
-
     context.fillStyle='rgb('+ Math.floor(199 - 42*j) + ', 79,'+ Math.floor(120+15*i)+')';
-
 context.fillRect(i*45+10,j*45+10,40,40);
   }
  }
